@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #057f258a;
+    color: #333;
+    padding: 20px;
+  }
+  
+  .main-heading {
+    color: #005f73;
+    text-align: left;
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  #intro-text {
+    font-style: italic;
+    margin: 10px 0;
+    font-size: 1.2em;
+  }
+  
+  .styled-img {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #0a9396;
+    border-radius: 8px;
+  }
+  
+  .content-box {
+    border: 2px solid #f5f6f6;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 8px;
+    background-color: #d3a6e9;
+  }
+  
+  
